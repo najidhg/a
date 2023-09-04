@@ -1,5 +1,5 @@
 {
-    "name": "vendor/custom_package",
+    "name": "najidhg/custom_package",
     "description": "A custom PHP package",
     "autoload": {
         "psr-4": {
