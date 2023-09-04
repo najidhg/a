@@ -1,0 +1,9 @@
+{
+    "name": "vendor/custom_package",
+    "description": "A custom PHP package",
+    "autoload": {
+        "psr-4": {
+            "MyCustomPackage\\": "src/"
+        }
+    }
+}
